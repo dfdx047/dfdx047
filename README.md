@@ -6,7 +6,7 @@
   <h3>IT Graduate, Technology Enthusiast & YouTube Creator</h3>
 
   <!-- Animação de Carro -->
-  <img src="[https://media.giphy.com/media/3o7aD2saalEvpB8U0w/giphy.gi](https://giphy.com/gifs/rwdybyz-kneapolitan-justgifit-s2uR7LRDvn4WSTlyil)f" width="400" alt="Cool Car">
+  <img src="" width="400" alt="Cool Car">
 </div>
 
 <br>
