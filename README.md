@@ -5,7 +5,8 @@
 
   <br>
 
-  <!-- COLE OU ARRASTE O SEU VÍDEO AQUI -->
+  <!-- O seu vídeo chamado trail -->
+  <video src="trail.mp4" width="600" controls="controls"></video>
 
 </div>
 
