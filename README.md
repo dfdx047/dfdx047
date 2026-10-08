@@ -5,8 +5,8 @@
 
   <br>
 
-  <!-- O seu vídeo chamado trail -->
-  <video src="trail.mp4" width="600" controls="controls"></video>
+  <!-- O seu vídeo trail a carregar diretamente da ramificação dfdev -->
+  <video src="https://github.com/dfdx047/dfdx047/raw/dfdev/trail.mp4" width="600" controls="controls"></video>
 
 </div>
 
