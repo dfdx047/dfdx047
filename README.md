@@ -5,8 +5,8 @@
   <h1>Hi there, I'm Vinícius! 👋</h1>
   <h3>IT Graduate, Technology Enthusiast & YouTube Creator</h3>
 
-  <!-- Animação de Carro -->
-  <img src="" width="400" alt="Cool Car">
+  <!-- Imagem dos carros fazendo drift no formato WEBP -->
+  <img src="drift.webp" width="600" alt="JDM Cars Drifting">
 </div>
 
 <br>
